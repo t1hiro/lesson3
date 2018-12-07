@@ -1,0 +1,4 @@
+ephem
+python-telegram-bot[socks]
+flask
+requests

@@ -1,0 +1,5 @@
+.venv
+*.log
+settings.py
+__pycache__
+./learn_web/settings.py
